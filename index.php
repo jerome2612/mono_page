@@ -108,9 +108,9 @@ body {
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Page Bande Réseaux</h5>
+                                <h3 class="card-title">Header full avec content include 2 images</h3>
                                 <p class="card-text">Créer une page avec une bande de réseaux sociaux.</p>
-                                <a href="pagebandoreseaux.php" class="btn btn-primary">Générer</a>
+                                <a href="header_2_images_inside\formulaire_header_2pictures.php" class="btn btn-primary">Générer</a>
                             </div>
                         </div>
                     </div>
